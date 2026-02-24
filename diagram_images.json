@@ -1,0 +1,253 @@
+[
+  { "imageId": "IMG-G12-COUNT-001", "gradeBand": "1-2", "description": "Six circles (2 rows of 3).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='120'><g fill='none' stroke='black' stroke-width='2'><circle cx='40' cy='35' r='14'/><circle cx='100' cy='35' r='14'/><circle cx='160' cy='35' r='14'/><circle cx='40' cy='85' r='14'/><circle cx='100' cy='85' r='14'/><circle cx='160' cy='85' r='14'/></g></svg>" },
+  { "imageId": "IMG-G12-COUNT-002", "gradeBand": "1-2", "description": "Eight stars in two rows of four.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='120'><g fill='none' stroke='black' stroke-width='2'><path d='M30 20 L35 35 L50 35 L38 44 L42 60 L30 50 L18 60 L22 44 L10 35 L25 35 Z'/><path d='M90 20 L95 35 L110 35 L98 44 L102 60 L90 50 L78 60 L82 44 L70 35 L85 35 Z'/><path d='M150 20 L155 35 L170 35 L158 44 L162 60 L150 50 L138 60 L142 44 L130 35 L145 35 Z'/><path d='M210 20 L215 35 L230 35 L218 44 L222 60 L210 50 L198 60 L202 44 L190 35 L205 35 Z'/><path d='M30 70 L35 85 L50 85 L38 94 L42 110 L30 100 L18 110 L22 94 L10 85 L25 85 Z'/><path d='M90 70 L95 85 L110 85 L98 94 L102 110 L90 100 L78 110 L82 94 L70 85 L85 85 Z'/><path d='M150 70 L155 85 L170 85 L158 94 L162 110 L150 100 L138 110 L142 94 L130 85 L145 85 Z'/><path d='M210 70 L215 85 L230 85 L218 94 L222 110 L210 100 L198 110 L202 94 L190 85 L205 85 Z'/></g></svg>" },
+  { "imageId": "IMG-G12-PATTERN-001", "gradeBand": "1-2", "description": "Boxes labeled 2, 4, 6, ?.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='80'><g fill='none' stroke='black' stroke-width='2'><rect x='10' y='20' width='50' height='40'/><rect x='70' y='20' width='50' height='40'/><rect x='130' y='20' width='50' height='40'/><rect x='190' y='20' width='60' height='40'/></g><g font-size='20' font-family='Arial' text-anchor='middle'><text x='35' y='47'>2</text><text x='95' y='47'>4</text><text x='155' y='47'>6</text><text x='220' y='47'>?</text></g></svg>" },
+  { "imageId": "IMG-G12-PATTERN-002", "gradeBand": "1-2", "description": "Shapes: circle, square, circle, square, ?.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='80'><g fill='none' stroke='black' stroke-width='2'><circle cx='40' cy='40' r='18'/><rect x='80' y='22' width='36' height='36'/><circle cx='150' cy='40' r='18'/><rect x='190' y='22' width='36' height='36'/><rect x='250' y='22' width='36' height='36' stroke-dasharray='5,4'/></g><text x='268' y='48' font-size='18' font-family='Arial' text-anchor='middle'>?</text></svg>" },
+  { "imageId": "IMG-G12-MONEY-001", "gradeBand": "1-2", "description": "Coins: 3 coins labeled 1.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='90'><g fill='none' stroke='black' stroke-width='2'><circle cx='40' cy='45' r='20'/><circle cx='110' cy='45' r='20'/><circle cx='180' cy='45' r='20'/></g><g font-size='18' font-family='Arial' text-anchor='middle'><text x='40' y='52'>1</text><text x='110' y='52'>1</text><text x='180' y='52'>1</text></g></svg>" },
+  { "imageId": "IMG-G12-CLOCK-001", "gradeBand": "1-2", "description": "Clock showing 3:00.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><circle cx='70' cy='70' r='55' fill='none' stroke='black' stroke-width='2'/><line x1='70' y1='70' x2='70' y2='35' stroke='black' stroke-width='3'/><line x1='70' y1='70' x2='105' y2='70' stroke='black' stroke-width='3'/></svg>" },
+  { "imageId": "IMG-G12-TENFRAME-001", "gradeBand": "1-2", "description": "Ten-frame with 7 filled dots.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='120'><g fill='none' stroke='black' stroke-width='2'><rect x='20' y='25' width='220' height='70'/><line x1='64' y1='25' x2='64' y2='95'/><line x1='108' y1='25' x2='108' y2='95'/><line x1='152' y1='25' x2='152' y2='95'/><line x1='196' y1='25' x2='196' y2='95'/><line x1='20' y1='60' x2='240' y2='60'/></g><g fill='black'><circle cx='42' cy='43' r='8'/><circle cx='86' cy='43' r='8'/><circle cx='130' cy='43' r='8'/><circle cx='174' cy='43' r='8'/><circle cx='218' cy='43' r='8'/><circle cx='42' cy='78' r='8'/><circle cx='86' cy='78' r='8'/></g></svg>" },
+  { "imageId": "IMG-G12-SHAPES-001", "gradeBand": "1-2", "description": "Triangle, square, circle.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='90'><polygon points='40,70 20,70 30,40' fill='none' stroke='black' stroke-width='2'/><rect x='90' y='40' width='35' height='35' fill='none' stroke='black' stroke-width='2'/><circle cx='180' cy='58' r='18' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G12-NUMBERLINE-001", "gradeBand": "1-2", "description": "Number line 0 to 10 with point at 7.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='90'><line x1='20' y1='50' x2='300' y2='50' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='20' y1='45' x2='20' y2='55'/><line x1='48' y1='45' x2='48' y2='55'/><line x1='76' y1='45' x2='76' y2='55'/><line x1='104' y1='45' x2='104' y2='55'/><line x1='132' y1='45' x2='132' y2='55'/><line x1='160' y1='45' x2='160' y2='55'/><line x1='188' y1='45' x2='188' y2='55'/><line x1='216' y1='45' x2='216' y2='55'/><line x1='244' y1='45' x2='244' y2='55'/><line x1='272' y1='45' x2='272' y2='55'/><line x1='300' y1='45' x2='300' y2='55'/></g><circle cx='216' cy='50' r='6' fill='black'/><g font-family='Arial' font-size='14' text-anchor='middle'><text x='20' y='75'>0</text><text x='300' y='75'>10</text></g></svg>" },
+  { "imageId": "IMG-G12-DICE-001", "gradeBand": "1-2", "description": "Die face showing 5.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='90' height='90'><rect x='10' y='10' width='70' height='70' rx='10' fill='none' stroke='black' stroke-width='2'/><g fill='black'><circle cx='30' cy='30' r='5'/><circle cx='60' cy='30' r='5'/><circle cx='45' cy='45' r='5'/><circle cx='30' cy='60' r='5'/><circle cx='60' cy='60' r='5'/></g></svg>" },
+
+  { "imageId": "IMG-G34-FRACTION-001", "gradeBand": "3-4", "description": "Rectangle split into 4 equal columns, 3 shaded.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='90'><rect x='10' y='20' width='260' height='50' fill='none' stroke='black' stroke-width='2'/><line x1='75' y1='20' x2='75' y2='70' stroke='black' stroke-width='2'/><line x1='140' y1='20' x2='140' y2='70' stroke='black' stroke-width='2'/><line x1='205' y1='20' x2='205' y2='70' stroke='black' stroke-width='2'/><rect x='10' y='20' width='195' height='50' fill='rgba(0,0,0,0.15)'/></svg>" },
+  { "imageId": "IMG-G34-FRACTION-002", "gradeBand": "3-4", "description": "Circle split into 8 slices, 5 shaded.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160'><circle cx='80' cy='80' r='60' fill='none' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='80' y1='80' x2='140' y2='80'/><line x1='80' y1='80' x2='122.4' y2='122.4'/><line x1='80' y1='80' x2='80' y2='140'/><line x1='80' y1='80' x2='37.6' y2='122.4'/><line x1='80' y1='80' x2='20' y2='80'/><line x1='80' y1='80' x2='37.6' y2='37.6'/><line x1='80' y1='80' x2='80' y2='20'/><line x1='80' y1='80' x2='122.4' y2='37.6'/></g><path d='M80 80 L140 80 A60 60 0 0 1 37.6 122.4 Z' fill='rgba(0,0,0,0.15)'/><path d='M80 80 L37.6 122.4 A60 60 0 0 1 20 80 Z' fill='rgba(0,0,0,0.15)'/><path d='M80 80 L20 80 A60 60 0 0 1 37.6 37.6 Z' fill='rgba(0,0,0,0.15)'/><path d='M80 80 L37.6 37.6 A60 60 0 0 1 80 20 Z' fill='rgba(0,0,0,0.15)'/><path d='M80 80 L80 20 A60 60 0 0 1 122.4 37.6 Z' fill='rgba(0,0,0,0.15)'/></svg>" },
+  { "imageId": "IMG-G34-RECT-001", "gradeBand": "3-4", "description": "Rectangle labeled length 8 and width 5.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='120'><rect x='60' y='30' width='180' height='70' fill='none' stroke='black' stroke-width='2'/><text x='150' y='25' font-size='18' font-family='Arial' text-anchor='middle'>8</text><text x='35' y='70' font-size='18' font-family='Arial' text-anchor='middle'>5</text></svg>" },
+  { "imageId": "IMG-G34-RECT-002", "gradeBand": "3-4", "description": "Rectangle labeled length 10 and width 3.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='120'><rect x='60' y='40' width='220' height='50' fill='none' stroke='black' stroke-width='2'/><text x='170' y='35' font-size='18' font-family='Arial' text-anchor='middle'>10</text><text x='35' y='70' font-size='18' font-family='Arial' text-anchor='middle'>3</text></svg>" },
+  { "imageId": "IMG-G34-NUMBERLINE-001", "gradeBand": "3-4", "description": "Number line with tick marks, point at 12.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='360' height='90'><line x1='20' y1='45' x2='340' y2='45' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='40' y1='40' x2='40' y2='50'/><line x1='80' y1='40' x2='80' y2='50'/><line x1='120' y1='40' x2='120' y2='50'/><line x1='160' y1='40' x2='160' y2='50'/><line x1='200' y1='40' x2='200' y2='50'/><line x1='240' y1='40' x2='240' y2='50'/><line x1='280' y1='40' x2='280' y2='50'/><line x1='320' y1='40' x2='320' y2='50'/></g><circle cx='240' cy='45' r='6' fill='black'/><g font-family='Arial' font-size='14' text-anchor='middle'><text x='40' y='75'>0</text><text x='320' y='75'>16</text></g></svg>" },
+  { "imageId": "IMG-G34-TABLE-001", "gradeBand": "3-4", "description": "Small 2x3 table blank cells.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='140'><rect x='30' y='30' width='160' height='90' fill='none' stroke='black' stroke-width='2'/><line x1='110' y1='30' x2='110' y2='120' stroke='black' stroke-width='2'/><line x1='30' y1='75' x2='190' y2='75' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G34-PICTO-001", "gradeBand": "3-4", "description": "Pictograph: 3 apples icons.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='90'><g fill='none' stroke='black' stroke-width='2'><circle cx='50' cy='50' r='16'/><circle cx='110' cy='50' r='16'/><circle cx='170' cy='50' r='16'/></g><g stroke='black' stroke-width='2'><line x1='50' y1='32' x2='50' y2='20'/><line x1='110' y1='32' x2='110' y2='20'/><line x1='170' y1='32' x2='170' y2='20'/></g></svg>" },
+  { "imageId": "IMG-G34-ANGLE-001", "gradeBand": "3-4", "description": "Right angle marker.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='160' height='140'><line x1='40' y1='110' x2='40' y2='40' stroke='black' stroke-width='3'/><line x1='40' y1='110' x2='120' y2='110' stroke='black' stroke-width='3'/><polyline points='40,95 55,95 55,110' fill='none' stroke='black' stroke-width='3'/></svg>" },
+  { "imageId": "IMG-G34-GRID-001", "gradeBand": "3-4", "description": "4x4 grid with 6 shaded squares.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><g stroke='black' stroke-width='2' fill='none'><rect x='20' y='20' width='140' height='140'/><line x1='55' y1='20' x2='55' y2='160'/><line x1='90' y1='20' x2='90' y2='160'/><line x1='125' y1='20' x2='125' y2='160'/><line x1='20' y1='55' x2='160' y2='55'/><line x1='20' y1='90' x2='160' y2='90'/><line x1='20' y1='125' x2='160' y2='125'/></g><g fill='rgba(0,0,0,0.15)'><rect x='20' y='20' width='35' height='35'/><rect x='55' y='20' width='35' height='35'/><rect x='20' y='55' width='35' height='35'/><rect x='90' y='55' width='35' height='35'/><rect x='55' y='90' width='35' height='35'/><rect x='125' y='125' width='35' height='35'/></g></svg>" },
+
+  { "imageId": "IMG-G56-TRI-001", "gradeBand": "5-6", "description": "Right triangle with legs 6 and 8.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='160'><polygon points='50,130 50,40 170,130' fill='none' stroke='black' stroke-width='2'/><text x='25' y='90' font-size='16' font-family='Arial'>6</text><text x='105' y='150' font-size='16' font-family='Arial'>8</text></svg>" },
+  { "imageId": "IMG-G56-TRI-002", "gradeBand": "5-6", "description": "Triangle with base 10 and height 6.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='170'><polygon points='50,140 200,140 130,50' fill='none' stroke='black' stroke-width='2'/><line x1='130' y1='50' x2='130' y2='140' stroke='black' stroke-width='2' stroke-dasharray='5,4'/><text x='120' y='165' font-size='16' font-family='Arial'>10</text><text x='138' y='100' font-size='16' font-family='Arial'>6</text></svg>" },
+  { "imageId": "IMG-G56-RECT-AREA-001", "gradeBand": "5-6", "description": "Rectangle labeled 9 by 7.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='140'><rect x='70' y='40' width='180' height='80' fill='none' stroke='black' stroke-width='2'/><text x='160' y='35' font-size='18' font-family='Arial' text-anchor='middle'>9</text><text x='45' y='85' font-size='18' font-family='Arial' text-anchor='middle'>7</text></svg>" },
+  { "imageId": "IMG-G56-BAR-001", "gradeBand": "5-6", "description": "Bar chart with bars 2, 4, 6.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='160'><g stroke='black' stroke-width='2' fill='none'><line x1='30' y1='140' x2='220' y2='140'/><line x1='30' y1='20' x2='30' y2='140'/></g><g fill='rgba(0,0,0,0.3)'><rect x='55' y='100' width='30' height='40'/><rect x='105' y='80' width='30' height='60'/><rect x='155' y='60' width='30' height='80'/></g></svg>" },
+  { "imageId": "IMG-G56-PIE-001", "gradeBand": "5-6", "description": "Pie chart with 1/4 shaded.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='170' height='170'><circle cx='85' cy='85' r='65' fill='none' stroke='black' stroke-width='2'/><path d='M85 85 L150 85 A65 65 0 0 1 85 150 Z' fill='rgba(0,0,0,0.15)'/><line x1='85' y1='85' x2='150' y2='85' stroke='black' stroke-width='2'/><line x1='85' y1='85' x2='85' y2='150' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G56-NUMBERLINE-001", "gradeBand": "5-6", "description": "Number line with point at 3.5 between 3 and 4.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='90'><line x1='30' y1='45' x2='290' y2='45' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='70' y1='40' x2='70' y2='50'/><line x1='150' y1='40' x2='150' y2='50'/><line x1='230' y1='40' x2='230' y2='50'/></g><circle cx='190' cy='45' r='6' fill='black'/><g font-family='Arial' font-size='14' text-anchor='middle'><text x='70' y='75'>3</text><text x='230' y='75'>4</text></g></svg>" },
+  { "imageId": "IMG-G56-NET-CUBE-001", "gradeBand": "5-6", "description": "Cube net (cross shape).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='200'><g fill='none' stroke='black' stroke-width='2'><rect x='100' y='40' width='40' height='40'/><rect x='60' y='80' width='40' height='40'/><rect x='100' y='80' width='40' height='40'/><rect x='140' y='80' width='40' height='40'/><rect x='180' y='80' width='40' height='40'/><rect x='100' y='120' width='40' height='40'/></g></svg>" },
+  { "imageId": "IMG-G56-COORD-001", "gradeBand": "5-6", "description": "Coordinate grid with point (2,3).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='190' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><g stroke='black' stroke-width='1'><line x1='70' y1='190' x2='70' y2='30'/><line x1='110' y1='190' x2='110' y2='30'/><line x1='150' y1='190' x2='150' y2='30'/><line x1='30' y1='150' x2='190' y2='150'/><line x1='30' y1='110' x2='190' y2='110'/><line x1='30' y1='70' x2='190' y2='70'/></g><circle cx='110' cy='70' r='6' fill='black'/></svg>" },
+  { "imageId": "IMG-G56-FRACTION-BAR-001", "gradeBand": "5-6", "description": "Fraction bar split into 5 parts, 2 shaded.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='90'><rect x='20' y='30' width='260' height='30' fill='none' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='72' y1='30' x2='72' y2='60'/><line x1='124' y1='30' x2='124' y2='60'/><line x1='176' y1='30' x2='176' y2='60'/><line x1='228' y1='30' x2='228' y2='60'/></g><rect x='20' y='30' width='104' height='30' fill='rgba(0,0,0,0.15)'/></svg>" },
+
+  { "imageId": "IMG-G78-ANGLE-001", "gradeBand": "7-8", "description": "Triangle with two angles 50° and 60°.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='180'><polygon points='60,150 120,40 180,150' fill='none' stroke='black' stroke-width='2'/><text x='70' y='145' font-size='16' font-family='Arial'>50°</text><text x='150' y='145' font-size='16' font-family='Arial'>60°</text></svg>" },
+  { "imageId": "IMG-G78-ANGLE-002", "gradeBand": "7-8", "description": "Triangle with angles 35° and 75°.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='180'><polygon points='55,150 120,45 185,150' fill='none' stroke='black' stroke-width='2'/><text x='65' y='145' font-size='16' font-family='Arial'>35°</text><text x='152' y='145' font-size='16' font-family='Arial'>75°</text></svg>" },
+  { "imageId": "IMG-G78-PARALLEL-001", "gradeBand": "7-8", "description": "Two parallel lines cut by a transversal.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='160'><line x1='20' y1='40' x2='280' y2='40' stroke='black' stroke-width='2'/><line x1='20' y1='120' x2='280' y2='120' stroke='black' stroke-width='2'/><line x1='70' y1='10' x2='210' y2='150' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G78-PARALLEL-002", "gradeBand": "7-8", "description": "Parallel lines with labeled angle 110° at top intersection.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='170'><line x1='30' y1='50' x2='290' y2='50' stroke='black' stroke-width='2'/><line x1='30' y1='130' x2='290' y2='130' stroke='black' stroke-width='2'/><line x1='90' y1='20' x2='230' y2='160' stroke='black' stroke-width='2'/><text x='125' y='45' font-size='16' font-family='Arial'>110°</text></svg>" },
+  { "imageId": "IMG-G78-CIRCLE-001", "gradeBand": "7-8", "description": "Circle with radius labeled 6.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><circle cx='100' cy='100' r='70' fill='none' stroke='black' stroke-width='2'/><line x1='100' y1='100' x2='170' y2='100' stroke='black' stroke-width='2'/><text x='132' y='90' font-size='16' font-family='Arial'>6</text></svg>" },
+  { "imageId": "IMG-G78-CHORD-001", "gradeBand": "7-8", "description": "Circle with a chord and center point.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><circle cx='110' cy='110' r='80' fill='none' stroke='black' stroke-width='2'/><line x1='60' y1='80' x2='170' y2='160' stroke='black' stroke-width='2'/><circle cx='110' cy='110' r='4' fill='black'/></svg>" },
+  { "imageId": "IMG-G78-TRI-RIGHT-001", "gradeBand": "7-8", "description": "Right triangle with hypotenuse 13 and one leg 5.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='170'><polygon points='60,140 60,50 200,140' fill='none' stroke='black' stroke-width='2'/><polyline points='60,125 75,125 75,140' fill='none' stroke='black' stroke-width='2'/><text x='35' y='100' font-size='16' font-family='Arial'>5</text><text x='125' y='160' font-size='16' font-family='Arial'>?</text><text x='150' y='85' font-size='16' font-family='Arial'>13</text></svg>" },
+  { "imageId": "IMG-G78-BOXPLOT-001", "gradeBand": "7-8", "description": "Simple boxplot (no labels).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='120'><line x1='40' y1='60' x2='280' y2='60' stroke='black' stroke-width='2'/><rect x='120' y='40' width='80' height='40' fill='rgba(0,0,0,0.1)' stroke='black' stroke-width='2'/><line x1='160' y1='40' x2='160' y2='80' stroke='black' stroke-width='2'/><line x1='80' y1='60' x2='120' y2='60' stroke='black' stroke-width='2'/><line x1='200' y1='60' x2='240' y2='60' stroke='black' stroke-width='2'/><line x1='80' y1='50' x2='80' y2='70' stroke='black' stroke-width='2'/><line x1='240' y1='50' x2='240' y2='70' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G78-GRID-001", "gradeBand": "7-8", "description": "5x5 grid with a diagonal shaded.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='210' height='210'><g stroke='black' stroke-width='2' fill='none'><rect x='20' y='20' width='170' height='170'/><line x1='54' y1='20' x2='54' y2='190'/><line x1='88' y1='20' x2='88' y2='190'/><line x1='122' y1='20' x2='122' y2='190'/><line x1='156' y1='20' x2='156' y2='190'/><line x1='20' y1='54' x2='190' y2='54'/><line x1='20' y1='88' x2='190' y2='88'/><line x1='20' y1='122' x2='190' y2='122'/><line x1='20' y1='156' x2='190' y2='156'/></g><g fill='rgba(0,0,0,0.15)'><rect x='20' y='20' width='34' height='34'/><rect x='54' y='54' width='34' height='34'/><rect x='88' y='88' width='34' height='34'/><rect x='122' y='122' width='34' height='34'/><rect x='156' y='156' width='34' height='34'/></g></svg>" },
+
+  { "imageId": "IMG-G910-GRAPH-001", "gradeBand": "9-10", "description": "Coordinate axes with a line (positive slope).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='210' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><line x1='50' y1='170' x2='200' y2='60' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G910-GRAPH-002", "gradeBand": "9-10", "description": "Coordinate axes with a line (negative slope).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='210' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><line x1='55' y1='60' x2='200' y2='170' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G910-PARABOLA-001", "gradeBand": "9-10", "description": "Upward opening parabola on axes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='210' y2='190'/><line x1='120' y1='190' x2='120' y2='30'/></g><path d='M60 190 Q120 70 180 190' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G910-PARABOLA-002", "gradeBand": "9-10", "description": "Downward opening parabola on axes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='210' y2='190'/><line x1='120' y1='190' x2='120' y2='30'/></g><path d='M60 70 Q120 170 180 70' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G910-TRI-001", "gradeBand": "9-10", "description": "Right triangle with legs 9 and 12.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='170'><polygon points='60,140 60,50 210,140' fill='none' stroke='black' stroke-width='2'/><polyline points='60,125 75,125 75,140' fill='none' stroke='black' stroke-width='2'/><text x='35' y='100' font-size='16' font-family='Arial'>9</text><text x='130' y='160' font-size='16' font-family='Arial'>12</text></svg>" },
+  { "imageId": "IMG-G910-CIRCLE-001", "gradeBand": "9-10", "description": "Unit circle style: circle with x/y axes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><circle cx='110' cy='110' r='80' fill='none' stroke='black' stroke-width='2'/><line x1='30' y1='110' x2='190' y2='110' stroke='black' stroke-width='2'/><line x1='110' y1='30' x2='110' y2='190' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G910-HIST-001", "gradeBand": "9-10", "description": "Histogram-like bars: 1,3,2,4.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='160'><g stroke='black' stroke-width='2' fill='none'><line x1='30' y1='140' x2='240' y2='140'/><line x1='30' y1='20' x2='30' y2='140'/></g><g fill='rgba(0,0,0,0.25)'><rect x='50' y='110' width='35' height='30'/><rect x='90' y='70' width='35' height='70'/><rect x='130' y='90' width='35' height='50'/><rect x='170' y='50' width='35' height='90'/></g></svg>" },
+  { "imageId": "IMG-G910-TRANSFORM-001", "gradeBand": "9-10", "description": "Two points A and A' showing a translation arrow.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='120'><circle cx='70' cy='80' r='5' fill='black'/><circle cx='200' cy='40' r='5' fill='black'/><text x='60' y='75' font-size='14' font-family='Arial'>A</text><text x='210' y='35' font-size='14' font-family='Arial'>A'</text><line x1='80' y1='75' x2='190' y2='45' stroke='black' stroke-width='2'/><polygon points='190,45 178,44 184,54' fill='black'/></svg>" },
+  { "imageId": "IMG-G910-FACTOR-AREA-001", "gradeBand": "9-10", "description": "Area model rectangle split into x and 3; x and 2.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='170'><rect x='40' y='40' width='180' height='100' fill='none' stroke='black' stroke-width='2'/><line x1='140' y1='40' x2='140' y2='140' stroke='black' stroke-width='2'/><line x1='40' y1='90' x2='220' y2='90' stroke='black' stroke-width='2'/><text x='90' y='35' font-size='14' font-family='Arial'>x</text><text x='180' y='35' font-size='14' font-family='Arial'>3</text><text x='25' y='75' font-size='14' font-family='Arial'>x</text><text x='25' y='125' font-size='14' font-family='Arial'>2</text></svg>" },
+
+  { "imageId": "IMG-G1112-CIRCLE-001", "gradeBand": "11-12", "description": "Circle with radius r and a marked center.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><circle cx='110' cy='110' r='80' fill='none' stroke='black' stroke-width='2'/><circle cx='110' cy='110' r='4' fill='black'/><line x1='110' y1='110' x2='190' y2='110' stroke='black' stroke-width='2'/><text x='145' y='100' font-size='16' font-family='Arial'>r</text></svg>" },
+  { "imageId": "IMG-G1112-EXP-001", "gradeBand": "11-12", "description": "Exponential curve on axes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='240' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><path d='M40 175 C80 175 90 160 110 140 C130 120 150 95 175 65 C195 45 215 35 235 35' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G1112-LOG-001", "gradeBand": "11-12", "description": "Log-like curve on axes (increasing, concave down).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='240' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><path d='M45 180 C70 150 90 120 115 100 C140 80 170 65 235 55' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G1112-SINE-001", "gradeBand": "11-12", "description": "Sine wave segment.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='140'><path d='M20 70 C60 20 100 20 140 70 C180 120 220 120 260 70 C280 45 300 35 320 35' fill='none' stroke='black' stroke-width='2'/><line x1='20' y1='70' x2='320' y2='70' stroke='black' stroke-width='1' stroke-dasharray='5,4'/></svg>" },
+  { "imageId": "IMG-G1112-COSINE-001", "gradeBand": "11-12", "description": "Cosine wave segment.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='140'><path d='M20 35 C60 35 100 70 140 105 C180 140 220 105 260 70 C290 50 305 35 320 35' fill='none' stroke='black' stroke-width='2'/><line x1='20' y1='70' x2='320' y2='70' stroke='black' stroke-width='1' stroke-dasharray='5,4'/></svg>" },
+  { "imageId": "IMG-G1112-TAN-001", "gradeBand": "11-12", "description": "Tangent-like curve with asymptote lines.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='160'><line x1='110' y1='10' x2='110' y2='150' stroke='black' stroke-width='1' stroke-dasharray='6,5'/><line x1='210' y1='10' x2='210' y2='150' stroke='black' stroke-width='1' stroke-dasharray='6,5'/><path d='M20 130 C70 120 90 95 105 70 C115 55 120 45 125 30' fill='none' stroke='black' stroke-width='2'/><path d='M195 150 C210 120 230 90 250 75 C275 55 295 45 320 40' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G1112-CONIC-ELLIPSE-001", "gradeBand": "11-12", "description": "Ellipse with major/minor axes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='200'><ellipse cx='130' cy='100' rx='90' ry='55' fill='none' stroke='black' stroke-width='2'/><line x1='40' y1='100' x2='220' y2='100' stroke='black' stroke-width='1' stroke-dasharray='5,4'/><line x1='130' y1='45' x2='130' y2='155' stroke='black' stroke-width='1' stroke-dasharray='5,4'/></svg>" },
+  { "imageId": "IMG-G1112-CONIC-HYP-001", "gradeBand": "11-12", "description": "Hyperbola branches with asymptotes.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='220'><line x1='30' y1='190' x2='230' y2='30' stroke='black' stroke-width='1' stroke-dasharray='6,5'/><line x1='30' y1='30' x2='230' y2='190' stroke='black' stroke-width='1' stroke-dasharray='6,5'/><path d='M60 160 C80 140 95 125 110 110 C125 95 140 80 160 60' fill='none' stroke='black' stroke-width='2'/><path d='M200 60 C180 80 165 95 150 110 C135 125 120 140 100 160' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-G1112-VECTOR-001", "gradeBand": "11-12", "description": "Vector arrow from origin to point.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='200'><g stroke='black' stroke-width='2'><line x1='30' y1='170' x2='210' y2='170'/><line x1='30' y1='170' x2='30' y2='30'/></g><line x1='30' y1='170' x2='170' y2='70' stroke='black' stroke-width='3'/><polygon points='170,70 155,72 163,84' fill='black'/></svg>" },
+
+  { "imageId": "IMG-GMIX-POLY-001", "gradeBand": "7-8", "description": "Regular hexagon outline.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='200'><polygon points='110,30 170,65 170,135 110,170 50,135 50,65' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-GMIX-POLY-002", "gradeBand": "9-10", "description": "Regular octagon outline.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><polygon points='80,30 140,30 190,80 190,140 140,190 80,190 30,140 30,80' fill='none' stroke='black' stroke-width='2'/></svg>" },
+  { "imageId": "IMG-GMIX-NET-PRISM-001", "gradeBand": "7-8", "description": "Rectangular prism net (3 rectangles in a row + 2 caps).", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='180'><g fill='none' stroke='black' stroke-width='2'><rect x='80' y='70' width='60' height='50'/><rect x='140' y='70' width='60' height='50'/><rect x='200' y='70' width='60' height='50'/><rect x='140' y='20' width='60' height='50'/><rect x='140' y='120' width='60' height='50'/></g></svg>" },
+  { "imageId": "IMG-GMIX-SEQ-BOXES-001", "gradeBand": "5-6", "description": "Boxes labeled 3, 6, 12, 24, ?.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='360' height='80'><g fill='none' stroke='black' stroke-width='2'><rect x='10' y='20' width='55' height='40'/><rect x='75' y='20' width='55' height='40'/><rect x='140' y='20' width='55' height='40'/><rect x='205' y='20' width='55' height='40'/><rect x='270' y='20' width='80' height='40'/></g><g font-size='18' font-family='Arial' text-anchor='middle'><text x='37' y='47'>3</text><text x='102' y='47'>6</text><text x='167' y='47'>12</text><text x='232' y='47'>24</text><text x='310' y='47'>?</text></g></svg>" },
+  { "imageId": "IMG-GMIX-PROB-SPINNER-001", "gradeBand": "5-6", "description": "Spinner split into 4 equal regions.", "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><circle cx='100' cy='100' r='80' fill='none' stroke='black' stroke-width='2'/><line x1='100' y1='20' x2='100' y2='180' stroke='black' stroke-width='2'/><line x1='20' y1='100' x2='180' y2='100' stroke='black' stroke-width='2'/><line x1='100' y1='100' x2='160' y2='70' stroke='black' stroke-width='3'/><polygon points='160,70 147,70 153,80' fill='black'/></svg>" },
+
+  {
+    "imageId": "IMG-DAILY-001",
+    "gradeBand": "daily",
+    "description": "4x4 grid with a 2x2 shaded block in the corner.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><g stroke='black' stroke-width='2' fill='none'><rect x='20' y='20' width='160' height='160'/><line x1='60' y1='20' x2='60' y2='180'/><line x1='100' y1='20' x2='100' y2='180'/><line x1='140' y1='20' x2='140' y2='180'/><line x1='20' y1='60' x2='180' y2='60'/><line x1='20' y1='100' x2='180' y2='100'/><line x1='20' y1='140' x2='180' y2='140'/></g><g fill='rgba(0,0,0,0.15)'><rect x='20' y='20' width='80' height='80'/></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-002",
+    "gradeBand": "daily",
+    "description": "5-point star inside a circle.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><circle cx='110' cy='110' r='90' fill='none' stroke='black' stroke-width='2'/><path d='M110 35 L129 90 L187 90 L140 123 L157 178 L110 145 L63 178 L80 123 L33 90 L91 90 Z' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-003",
+    "gradeBand": "daily",
+    "description": "Number line from 0 to 1 with tick marks at quarters and point at 3/4.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='340' height='90'><line x1='30' y1='45' x2='310' y2='45' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='30' y1='40' x2='30' y2='50'/><line x1='100' y1='40' x2='100' y2='50'/><line x1='170' y1='40' x2='170' y2='50'/><line x1='240' y1='40' x2='240' y2='50'/><line x1='310' y1='40' x2='310' y2='50'/></g><circle cx='240' cy='45' r='6' fill='black'/><g font-family='Arial' font-size='14' text-anchor='middle'><text x='30' y='75'>0</text><text x='310' y='75'>1</text></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-004",
+    "gradeBand": "daily",
+    "description": "Triangle with a median drawn from the top vertex to the base midpoint.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='190'><polygon points='60,160 200,160 130,50' fill='none' stroke='black' stroke-width='2'/><line x1='130' y1='50' x2='130' y2='160' stroke='black' stroke-width='2' stroke-dasharray='5,4'/><circle cx='130' cy='160' r='3' fill='black'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-005",
+    "gradeBand": "daily",
+    "description": "Two intersecting circles (a Venn diagram outline).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='170'><circle cx='110' cy='85' r='60' fill='none' stroke='black' stroke-width='2'/><circle cx='150' cy='85' r='60' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-006",
+    "gradeBand": "daily",
+    "description": "3x3 grid with center shaded.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><g stroke='black' stroke-width='2' fill='none'><rect x='20' y='20' width='140' height='140'/><line x1='66.7' y1='20' x2='66.7' y2='160'/><line x1='113.3' y1='20' x2='113.3' y2='160'/><line x1='20' y1='66.7' x2='160' y2='66.7'/><line x1='20' y1='113.3' x2='160' y2='113.3'/></g><rect x='66.7' y='66.7' width='46.6' height='46.6' fill='rgba(0,0,0,0.15)'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-007",
+    "gradeBand": "daily",
+    "description": "Simple bar chart with three bars (heights 3,5,2).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='180'><g stroke='black' stroke-width='2' fill='none'><line x1='30' y1='150' x2='240' y2='150'/><line x1='30' y1='30' x2='30' y2='150'/></g><g fill='rgba(0,0,0,0.25)'><rect x='60' y='90' width='35' height='60'/><rect x='115' y='50' width='35' height='100'/><rect x='170' y='110' width='35' height='40'/></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-008",
+    "gradeBand": "daily",
+    "description": "Coordinate axes with a point plotted.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='190' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><g stroke='black' stroke-width='1'><line x1='70' y1='190' x2='70' y2='30'/><line x1='110' y1='190' x2='110' y2='30'/><line x1='150' y1='190' x2='150' y2='30'/><line x1='30' y1='150' x2='190' y2='150'/><line x1='30' y1='110' x2='190' y2='110'/><line x1='30' y1='70' x2='190' y2='70'/></g><circle cx='150' cy='110' r='6' fill='black'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-009",
+    "gradeBand": "daily",
+    "description": "Square split by both diagonals (an X).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><rect x='30' y='30' width='120' height='120' fill='none' stroke='black' stroke-width='2'/><line x1='30' y1='30' x2='150' y2='150' stroke='black' stroke-width='2'/><line x1='150' y1='30' x2='30' y2='150' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-010",
+    "gradeBand": "daily",
+    "description": "Regular pentagon outline.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='210'><polygon points='110,25 185,80 155,170 65,170 35,80' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+
+  {
+    "imageId": "IMG-DAILY-011",
+    "gradeBand": "daily",
+    "description": "Two parallel lines cut by a transversal (no labels).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='170'><line x1='30' y1='50' x2='290' y2='50' stroke='black' stroke-width='2'/><line x1='30' y1='130' x2='290' y2='130' stroke='black' stroke-width='2'/><line x1='90' y1='20' x2='230' y2='160' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-012",
+    "gradeBand": "daily",
+    "description": "Circle with a chord and a radius to the chord midpoint.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><circle cx='120' cy='120' r='90' fill='none' stroke='black' stroke-width='2'/><line x1='70' y1='90' x2='190' y2='150' stroke='black' stroke-width='2'/><circle cx='120' cy='120' r='4' fill='black'/><line x1='120' y1='120' x2='130' y2='120' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-013",
+    "gradeBand": "daily",
+    "description": "Rectangle split into 5 equal parts, 2 shaded.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='100'><rect x='20' y='35' width='280' height='30' fill='none' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='76' y1='35' x2='76' y2='65'/><line x1='132' y1='35' x2='132' y2='65'/><line x1='188' y1='35' x2='188' y2='65'/><line x1='244' y1='35' x2='244' y2='65'/></g><rect x='20' y='35' width='112' height='30' fill='rgba(0,0,0,0.15)'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-014",
+    "gradeBand": "daily",
+    "description": "L-shaped polyomino made of 4 unit squares.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><g fill='rgba(0,0,0,0.12)' stroke='black' stroke-width='2'><rect x='40' y='40' width='40' height='40'/><rect x='40' y='80' width='40' height='40'/><rect x='40' y='120' width='40' height='40'/><rect x='80' y='120' width='40' height='40'/></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-015",
+    "gradeBand": "daily",
+    "description": "Simple line graph rising then falling (no axes labels).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='160'><polyline points='30,120 110,60 190,80 270,40' fill='none' stroke='black' stroke-width='2'/><circle cx='30' cy='120' r='4' fill='black'/><circle cx='110' cy='60' r='4' fill='black'/><circle cx='190' cy='80' r='4' fill='black'/><circle cx='270' cy='40' r='4' fill='black'/></svg>"
+  },
+
+  {
+    "imageId": "IMG-DAILY-016",
+    "gradeBand": "daily",
+    "description": "Equilateral triangle outline.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='200'><polygon points='120,40 60,160 180,160' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-017",
+    "gradeBand": "daily",
+    "description": "Two rectangles overlapped (area puzzle style).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='180'><rect x='50' y='60' width='140' height='90' fill='none' stroke='black' stroke-width='2'/><rect x='110' y='30' width='140' height='90' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-018",
+    "gradeBand": "daily",
+    "description": "Regular hexagon with a diagonal drawn.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><polygon points='120,30 185,70 185,150 120,190 55,150 55,70' fill='none' stroke='black' stroke-width='2'/><line x1='120' y1='30' x2='120' y2='190' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-019",
+    "gradeBand": "daily",
+    "description": "Right triangle with a square on one leg (Pythagorean visual).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='200'><polygon points='60,160 60,60 200,160' fill='none' stroke='black' stroke-width='2'/><polyline points='60,145 75,145 75,160' fill='none' stroke='black' stroke-width='2'/><rect x='60' y='160' width='60' height='60' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-020",
+    "gradeBand": "daily",
+    "description": "A 6-sided die face showing 4.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect x='12' y='12' width='76' height='76' rx='12' fill='none' stroke='black' stroke-width='2'/><g fill='black'><circle cx='35' cy='35' r='6'/><circle cx='65' cy='35' r='6'/><circle cx='35' cy='65' r='6'/><circle cx='65' cy='65' r='6'/></g></svg>"
+  },
+
+  {
+    "imageId": "IMG-DAILY-021",
+    "gradeBand": "daily",
+    "description": "Two triangles sharing a base (comparison).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='300' height='180'><polygon points='60,140 150,140 105,60' fill='none' stroke='black' stroke-width='2'/><polygon points='150,140 240,140 210,80' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-022",
+    "gradeBand": "daily",
+    "description": "Circle split into 12 equal slices (unshaded).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><circle cx='100' cy='100' r='80' fill='none' stroke='black' stroke-width='2'/><g stroke='black' stroke-width='2'><line x1='100' y1='100' x2='180' y2='100'/><line x1='100' y1='100' x2='169' y2='60'/><line x1='100' y1='100' x2='140' y2='31'/><line x1='100' y1='100' x2='100' y2='20'/><line x1='100' y1='100' x2='60' y2='31'/><line x1='100' y1='100' x2='31' y2='60'/><line x1='100' y1='100' x2='20' y2='100'/><line x1='100' y1='100' x2='31' y2='140'/><line x1='100' y1='100' x2='60' y2='169'/><line x1='100' y1='100' x2='100' y2='180'/><line x1='100' y1='100' x2='140' y2='169'/><line x1='100' y1='100' x2='169' y2='140'/></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-023",
+    "gradeBand": "daily",
+    "description": "Coordinate axes with a labeled point P (no values).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='220'><g stroke='black' stroke-width='2'><line x1='30' y1='190' x2='210' y2='190'/><line x1='30' y1='190' x2='30' y2='30'/></g><circle cx='160' cy='100' r='6' fill='black'/><text x='170' y='95' font-family='Arial' font-size='16'>P</text></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-024",
+    "gradeBand": "daily",
+    "description": "Two concentric circles (ring).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><circle cx='110' cy='110' r='85' fill='none' stroke='black' stroke-width='2'/><circle cx='110' cy='110' r='45' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-025",
+    "gradeBand": "daily",
+    "description": "A trapezoid outline.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='180'><polygon points='70,140 200,140 170,60 100,60' fill='none' stroke='black' stroke-width='2'/></svg>"
+  },
+
+  {
+    "imageId": "IMG-DAILY-026",
+    "gradeBand": "daily",
+    "description": "A semicircle sitting on a diameter line.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='160'><path d='M40 120 A90 90 0 0 1 220 120' fill='none' stroke='black' stroke-width='2'/><line x1='40' y1='120' x2='220' y2='120' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-027",
+    "gradeBand": "daily",
+    "description": "A simple tree diagram with two branches each splitting into two.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='320' height='180'><circle cx='50' cy='90' r='4' fill='black'/><line x1='54' y1='90' x2='120' y2='50' stroke='black' stroke-width='2'/><line x1='54' y1='90' x2='120' y2='130' stroke='black' stroke-width='2'/><circle cx='120' cy='50' r='4' fill='black'/><circle cx='120' cy='130' r='4' fill='black'/><line x1='124' y1='50' x2='210' y2='30' stroke='black' stroke-width='2'/><line x1='124' y1='50' x2='210' y2='70' stroke='black' stroke-width='2'/><line x1='124' y1='130' x2='210' y2='110' stroke='black' stroke-width='2'/><line x1='124' y1='130' x2='210' y2='150' stroke='black' stroke-width='2'/><circle cx='210' cy='30' r='4' fill='black'/><circle cx='210' cy='70' r='4' fill='black'/><circle cx='210' cy='110' r='4' fill='black'/><circle cx='210' cy='150' r='4' fill='black'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-028",
+    "gradeBand": "daily",
+    "description": "A 1-2-3 staircase of unit squares (6 squares total).",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='240' height='160'><g fill='rgba(0,0,0,0.12)' stroke='black' stroke-width='2'><rect x='40' y='110' width='30' height='30'/><rect x='70' y='110' width='30' height='30'/><rect x='70' y='80' width='30' height='30'/><rect x='100' y='110' width='30' height='30'/><rect x='100' y='80' width='30' height='30'/><rect x='100' y='50' width='30' height='30'/></g></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-029",
+    "gradeBand": "daily",
+    "description": "A simple polygon with one diagonal drawn.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='260' height='220'><polygon points='60,170 200,170 230,110 160,40 70,70' fill='none' stroke='black' stroke-width='2'/><line x1='60' y1='170' x2='160' y2='40' stroke='black' stroke-width='2'/></svg>"
+  },
+  {
+    "imageId": "IMG-DAILY-030",
+    "gradeBand": "daily",
+    "description": "A rectangle with one diagonal and a right angle marker at a corner.",
+    "svg": "<svg xmlns='http://www.w3.org/2000/svg' width='280' height='180'><rect x='60' y='50' width='160' height='90' fill='none' stroke='black' stroke-width='2'/><line x1='60' y1='50' x2='220' y2='140' stroke='black' stroke-width='2'/><polyline points='60,70 80,70 80,50' fill='none' stroke='black' stroke-width='2'/></svg>"
+  }
+]
